@@ -2,7 +2,10 @@
 
 ## 30 day js coding challenge.
 
-A list of exercises developed in JavaScript
+A list of exercises developed in JavaScript.
+```
+- 2 of 30 exercises completed
+```
 
 ## DAY 1 - Drum Kit.
 
