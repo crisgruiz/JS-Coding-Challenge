@@ -20,7 +20,7 @@ In this exercise, I created a clock using CSS an JavaScript.
 
 In this exercise, we can change the style of an image (spacing, blur and base color) using CSS variables.
 
-## DAY 4 - Array Cardio Day 1
+## DAY 4 - Array Cardio Day 1 💪💪
 
 Some exercises for learning about array methods
 
