@@ -28,3 +28,7 @@ Some exercises for learning about array methods
 - Array.prototype.map()
 - Array.prototype.sort()
 - Array.prototype.reduce()
+
+## DAY 5 - Flex Panel Gallery
+
+Photo gallery made with CSS Flexbox, transitions and JavaScript
