@@ -20,7 +20,7 @@ In this exercise, I created a clock using CSS an JavaScript.
 
 In this exercise, we can change the style of an image (spacing, blur and base color) using CSS variables.
 
-## DAY 4 - Array Cardio Day 1 💪💪
+## DAY 4 - Array Cardio Day 1 💪
 
 Some exercises for learning about array methods
 
@@ -36,3 +36,12 @@ Photo gallery made with CSS Flexbox, transitions and JavaScript
 ## DAY 6 - Type Ahead
 
 Searching for American cities. When we type on the search bar, it will show us every single city and state which matches whatever we have typed. Also, cities will show their corresponding population.
+
+## DAY 7 - Array Cardio Day 2 💪💪
+
+Some exercises for learning about array methods
+
+- Array.prototype.some()
+- Array.prototype.every()
+- Array.prototype.find()
+- Array.prototype.findIndex()
