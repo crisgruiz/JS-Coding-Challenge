@@ -32,3 +32,7 @@ Some exercises for learning about array methods
 ## DAY 5 - Flex Panel Gallery
 
 Photo gallery made with CSS Flexbox, transitions and JavaScript
+
+## DAY 6 - Type Ahead
+
+Searching for American cities. When we type on the search bar, it will show us every single city and state which matches whatever we have typed. Also, cities will show their corresponding population.
