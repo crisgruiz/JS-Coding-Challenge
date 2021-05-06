@@ -45,3 +45,7 @@ Some exercises for learning about array methods
 - Array.prototype.every()
 - Array.prototype.find()
 - Array.prototype.findIndex()
+
+## DAY 8 - Fun with HTML5 Canvas
+
+Building a HTML5 canvas.
