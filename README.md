@@ -5,7 +5,7 @@
 A list of exercises developed in JavaScript.
 
 ```
-- 8 of 30 exercises completed
+- 9 of 30 exercises completed
 ```
 
 ## DAY 1 - Drum Kit.
