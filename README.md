@@ -49,3 +49,20 @@ Some exercises for learning about array methods
 ## DAY 8 - Fun with HTML5 Canvas
 
 Building a HTML5 canvas.
+
+## DAY 9 - Dev Tools Domination
+
+Learning about console methods:
+
+- string substitutions
+- console.warn();
+- console.error();
+- console.info();
+- console.assert ();
+- console.clear();
+- console.dir();
+- console.groupCollapsed();
+- console.groupEnd();
+- console.count();
+- console.time();
+- console.table();
